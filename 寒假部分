@@ -1,0 +1,5 @@
+数算课程寒假部分
+先复习
+双指针和二分查找
+线性查找
+def linear_search(arr,target):
